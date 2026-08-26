@@ -2,15 +2,10 @@
 
 Luke Thornton, Semester: Fall 2026, Data Acquisition \& Transformation, Data Visualization \& Communication, Exploratory Data Mining
 
+##Tools
 
-
-\##Tools
-
-\*Git
-
-\*GitHub
-
-\*R
-
-\*RStudio
+*Git
+*GitHub
+*R
+*RStudio
 
