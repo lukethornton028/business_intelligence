@@ -5,7 +5,10 @@ Luke Thornton, Semester: Fall 2026, Data Acquisition \& Transformation, Data Vis
 ##Tools
 
 *Git
+
 *GitHub
+
 *R
+
 *RStudio
 
